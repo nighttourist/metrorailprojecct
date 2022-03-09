@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1646498173 source:e:\c++project\metrorailproject\can.cpp
+	<bits/stdc++.h>
+	"funtionfile.h"
+
+1646836369 e:\c++project\metrorailproject\funtionfile.h
+
+1646498173 source:e:\c++project\metrorailproject\reservation.cpp
+	<bits/stdc++.h>
+	"funtionfile.h"
+
+1646582942 source:e:\c++project\metrorailproject\cancellation.cpp
+	<bits/stdc++.h>
+	"funtionfile.h"
+	"reser.h"
+	"Detail.h"
+	"canc.h"
+
+1646838272 source:e:\c++project\metrorailproject\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"funtionfile.h"
+
+1646584102 source:e:\c++project\metrorailproject\database.cpp
+	<bits/stdc++.h>
+	"funtionfile.h"
+	"Detail.h"
+
+1646582426 source:e:\c++project\metrorailproject\enquiry.cpp
+	<bits/stdc++.h>
+	"funtionfile.h"
+	"Detail.h"
+
+1646583065 source:e:\c++project\metrorailproject\displaypass.cpp
+	<bits/stdc++.h>
+	"funtionfile.h"
+	"reser.h"
+
+1646583136 source:e:\c++project\metrorailproject\manger.cpp
+	<bits/stdc++.h>
+	"funtionfile.h"
+	"login.h"
+
+1646583398 source:e:\c++project\metrorailproject\res.cpp
+	<bits/stdc++.h>
+	"funtionfile.h"
+	"Detail.h"
+	"reser.h"
+
+1646638342 source:e:\c++project\metrorailproject\user.cpp
+	<bits/stdc++.h>
+	"funtionfile.h"
+	"login.h"
+
+1646847827 source:e:\c++project\metrorailproject\src\login.cpp
+	"login.h"
+
+1646847621 e:\c++project\metrorailproject\include\login.h
+	<bits/stdc++.h>
+
+1646581860 source:e:\c++project\metrorailproject\src\detail.cpp
+	"Detail.h"
+
+1646581765 e:\c++project\metrorailproject\include\detail.h
+	<bits/stdc++.h>
+
+1646582128 source:e:\c++project\metrorailproject\src\reser.cpp
+	"reser.h"
+
+1646847373 e:\c++project\metrorailproject\include\reser.h
+	<bits/stdc++.h>
+
+1646582372 source:e:\c++project\metrorailproject\src\canc.cpp
+	"canc.h"
+
+1646582372 e:\c++project\metrorailproject\include\canc.h
+	<bits/stdc++.h>
+
+1646837382 source:e:\c++project\metrorailproject\registr.cpp
+	<bits/stdc++.h>
+	"funtionfile.h"
+	"login.h"
+
+1646837943 source:e:\c++project\metrorailproject\forgot.cpp
+	"funtionfile.h"
+	<bits/stdc++.h>
+
